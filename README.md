@@ -1,3 +1,3 @@
-Simple text analyzer built with the following: character count, word count, summary, paragraph count, sentence count, line count, and more...
+Simple text analyzer built with the following: character count, word count,  paragraph count, sentence count, line count, and summary.
 
- built for Peter Cooper's "Beginning Ruby - From Novice to Professional" assignments.
+ Assignment completed via Peter Cooper's "Beginning Ruby - From Novice to Professional"
